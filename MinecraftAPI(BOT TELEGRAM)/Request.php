@@ -6,7 +6,7 @@ class Request
     private $ip, $request;
     function __construct($ip)
     {
-        $this->request = curl_init();;
+        $this->request = curl_init();
         $this->ip = $ip;
     }
     /** @inheritdoc Curl request */
