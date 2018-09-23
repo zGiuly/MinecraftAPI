@@ -1,2 +1,2 @@
 # MinecraftAPI
-Minecrtaft api
+Minecraft api
